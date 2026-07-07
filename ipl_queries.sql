@@ -1,10 +1,5 @@
--- ============================================
--- IPL DATA ANALYSIS — SQL QUERIES (BigQuery)
--- Note: Replace 'matches' and 'deliveries' below
--- with your actual dataset.table names from
--- BigQuery, e.g. `ipl-analysis-501407.your_dataset.matches`
--- ============================================
 
+-- IPL DATA ANALYSIS — SQL QUERIES (BigQuery)
 -- Step 0: Cleaned view unifying historical team name inconsistencies
 CREATE OR REPLACE VIEW matches_clean AS
 SELECT
