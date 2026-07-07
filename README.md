@@ -20,13 +20,13 @@ IPL Complete Dataset.
 ## Dashboard Preview
 
 ### Toss Decision Impact
-![Toss Decision Impact](toss_decision_impact.png)
+![Toss Decision Impact](Data%20AnalyticsIPL/toss_decision_impact.png)
 
 ### Wins by Team
-![Wins by Team](wins_by_team.png)
+![Wins by Team](Data%20AnalyticsIPL/wins_by_team.png)
 
 ### Venue Chase Analysis
-![Venue Chase Analysis](venue_chase_analysis.png)
+![Venue Chase Analysis](Data%20AnalyticsIPL/venue_chase_analysis.png)
 
 ## Files in this Repository
 - `ipl_data_analysis.twbx` — Tableau Packaged Workbook (full interactive dashboard)
